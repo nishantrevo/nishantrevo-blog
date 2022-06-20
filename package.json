@@ -1,0 +1,23 @@
+{
+  "name": "nishantrevo-blog",
+  "version": "1.0.0",
+  "description": "blog and practice project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantrevo/nishantrevo-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantrevo/nishantrevo-blog/issues"
+  },
+  "homepage": "https://github.com/nishantrevo/nishantrevo-blog#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
